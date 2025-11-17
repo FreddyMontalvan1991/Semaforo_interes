@@ -1,0 +1,2 @@
+# Requerimientos para el modelo de Gestos/Emociones:
+ipython
