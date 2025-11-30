@@ -1,2 +1,5 @@
 # Requerimientos para el modelo de Gestos/Emociones:
 ipython
+
+# Requerimientos para el semaforo electrónico:
+pyserial
