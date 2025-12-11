@@ -1,0 +1,9 @@
+# Requerimientos para el modelo de Gestos/Emociones:
+streamlit
+opencv-python
+mediapipe
+streamlit-webrtc
+numpy
+
+# Requerimientos para el semaforo electrónico:
+pyserial
